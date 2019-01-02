@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/student2/amazzucc/coe758/projecta/gameattempt1/game.ncd
+OUTFILE=/home/student2/amazzucc/coe758/projecta/gameattempt1/game.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/student2/amazzucc/coe758/projecta/gameattempt1
+LICENSE=ISE
+USER_INFO=174208431_1777515441_210688086_524
